@@ -1,0 +1,16 @@
+body{
+  background-color: rosybrown;
+  font-size: small;
+  
+}
+nav{
+  text-align: right;
+}
+nav a {
+  text-decoration: none;
+}
+footer{
+  background-color: silver;
+  font-family:bold
+  ;
+}
